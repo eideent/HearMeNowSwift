@@ -4,7 +4,7 @@
 //
 //  Created by Eideen Taghizadeh on 12/1/17.
 //  Copyright © 2017 Eideen Taghizadeh. All rights reserved.
-//
+//  This is a View Controller
 
 import UIKit
 import AVFoundation
